@@ -11,7 +11,7 @@
 ```
 $connect = mysqli_connect('localhost','root','root','cardb');
 ```
-Указав свои данные для подключения к PhpMyAdmin
+Указав свои данные для подключения к PhpMyAdmin </br>
 3) Импортировать файл `cardb.sql` в PhpMyAdmin
 
 # API
